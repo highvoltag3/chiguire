@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<widget id="com.ziprealty.mobileZapHybrid" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>mobileZap</name>
+  <description>
+       MobileZap Hybrid prototype
+    </description>
+  <author email="dnovoa@ziprealty.com" href="http://myzap.com/">
+      Zap Team
+    </author>
+  <content src="index.html"/>
+  <access origin="*"/>
+  <preference name="webviewbounce" value="false"/>
+  <preference name="UIWebViewBounce" value="false"/>
+  <preference name="DisallowOverscroll" value="true"/>
+  <preference name="BackupWebStorage" value="none"/>
+  <feature name="StatusBar">
+    <param name="ios-package" value="CDVStatusBar" onload="true"/>
+  </feature>
+  <!-- Urban Airship app credentials -->
+  <preference name="com.urbanairship.production_app_key"     value="-fk6Ads6QUW9MfKO1T8aEw" />
+  <preference name="com.urbanairship.production_app_secret"  value="MUfZAKQIRMuwt75FeYjuXg" />
+  <preference name="com.urbanairship.development_app_key"    value="-fk6Ads6QUW9MfKO1T8aEw" />
+  <preference name="com.urbanairship.development_app_secret" value="MUfZAKQIRMuwt75FeYjuXg" />
+
+  <!-- If the app is in production or not -->
+  <preference name="com.urbanairship.in_production" value="false" />
+
+  <!-- Enable push when the application launches (instead of waiting for enablePush js call).  Defaults to false -->
+  <preference name="com.urbanairship.enable_push_onlaunch" value="true" />
+  
+  <!-- <preference name="com.urbanairship.gcm_sender" value="Android only: Your GCM sender id" /> -->
+
+
+
+</widget>
