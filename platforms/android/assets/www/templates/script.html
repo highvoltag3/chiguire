@@ -1,0 +1,41 @@
+<ion-view title="Script">
+  <ion-content class="has-header">
+    
+    <!-- <div class="bar bar-header item-input-inset">
+	  <label class="item-input-wrapper">
+	    <i class="icon ion-ios7-search placeholder-icon"></i>
+	    <input type="search" placeholder="Search for a script">
+	  </label>
+	  <button class="button button-clear">
+	    Cancel
+	  </button>
+	</div>  -->   
+
+		<div class="list card individual-script">
+			
+			<div class="item item-divider">
+	    	{{script.name}}
+	  	</div>
+
+	  	<label class="item item-input">
+	  		<i class="icon ion-ios7-personadd-outline placeholder-icon"></i>
+    		<input type="text" placeholder="To" value="user@email.com">
+  		</label>
+
+  		<label class="item item-input">
+  			<i class="icon ion-ios7-at-outline placeholder-icon"></i>
+    		<input type="text" placeholder="Subject" value="{{script.description}}">
+  		</label>
+
+		  <div class="item item-body">
+		  	<p contenteditable="true" ng-bind-html="script.script">{{script.script}}</p>
+		  </div>
+
+		</div>
+		<div class="padding">
+			<button class="button button-block button-positive icon-left ion-ios7-paperplane-outline" ng-click="showAlert()">
+		  	Send email
+			</button>
+		</div>
+  </ion-content>
+</ion-view>

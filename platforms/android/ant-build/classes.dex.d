@@ -1,0 +1,22 @@
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes.dex : \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/bez4pieci/cookies/Cookies.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushAutopilot$AirshipOptions.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushAutopilot.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushNotificationPlugin$1.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushNotificationPlugin.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushReceiver.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/BuildConfig.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/Manifest$permission.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/Manifest.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/mobileZap.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R$attr.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R$drawable.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R$string.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R$xml.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/dexedLibs/classes-a909e2a5975d4badf36918c7fa54b132.jar \
+/Users/dnovoa/Documents/phoneAppDev/Projects/mobileZap/platforms/android/ant-build/dexedLibs/urbanairship-lib-4.0.2-6798ca69368d6d96097737f727b0de48.jar \

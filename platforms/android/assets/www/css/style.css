@@ -1,0 +1,66 @@
+/* Empty. Add your own CSS if you like */
+.title.zap-logo {
+	background: transparent url(http://myzap.com/ap/images/nav/zap2-logo-final@2x.png) no-repeat top left;
+	background-size: 97px 33px;
+	display: inline-block;
+	height: 33px;
+	margin: 5px auto auto auto;
+	width: 97px;
+}
+
+.title.zap-logo > span{
+	display: none;
+	visibility: hidden;
+}
+
+.bar.bar-stable {
+	border-bottom: 2px solid #ffbb00;
+}
+
+.score-color {
+	display: block;
+	width: 70%;
+	height: 5px;
+	margin: 0 auto;
+	margin-top: 8px;
+}
+
+.icons {
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+}
+
+.list .contacts {
+	padding-left: 3rem;
+}
+
+.list .contacts.item-complex .item-content {
+	overflow: visible;
+}
+
+.list .contacts .score {
+	position: absolute;
+	top: 1rem;
+	left: -1.5rem;
+}
+
+.list .contacts .score .score-color {
+	width: 100%;
+}
+
+.individual-script .item-body {
+	max-height: 250px;
+}
+
+.script-list .button.icon:before,
+.button.icon-left:before,
+.button.icon-right:before {
+	line-height: 48px;
+}
+
+/* helpers */
+.hidden {
+	display: none;
+	visibility: hidden;
+}
