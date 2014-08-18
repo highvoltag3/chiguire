@@ -1,0 +1,22 @@
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes.dex : \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/bez4pieci/cookies/Cookies.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushAutopilot$AirshipOptions.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushAutopilot.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushNotificationPlugin$1.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushNotificationPlugin.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/urbanairship/phonegap/PushReceiver.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/BuildConfig.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/Manifest$permission.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/Manifest.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/mobileZap.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R$attr.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R$drawable.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R$string.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R$xml.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/com/ziprealty/mobileZapHybrid/R.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/dexedLibs/classes-48a31e7cac406cee334d1ec14af757d9.jar \
+/USers/arpandalal/Documents/chiguire/platforms/android/ant-build/dexedLibs/urbanairship-lib-4.0.2-b3f78da499d3b76e6b3210533880195a.jar \

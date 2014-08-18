@@ -1,0 +1,76 @@
+<div class="modal">
+  <ion-header-bar>
+    <h1 class="title">Quick Add Contact</h1>
+    <div class="buttons">
+      <button class="button button-clear" ng-click="closeQuickAdd()">Close</button>
+    </div>
+  </ion-header-bar>
+  <ion-content>
+    <div class="item item-text-wrap" ng-show="user">
+      <form ng-submit="doQuickAdd()">
+        <div class="list">
+
+          <label class="item item-input item-floating-label">
+            <span class="input-label">First Name</span>
+            <input type="text" ng-model="quickAddData.name" placeholder="First Name">
+          </label>
+          <label class="item item-input item-floating-label">
+            <span class="input-label">Last Name</span>
+            <input type="text" ng-model="quickAddData.surname" placeholder="Last Name">
+          </label>
+          <label class="item item-input item-floating-label">
+            <span class="input-label">Email</span>
+            <input type="text" ng-model="quickAddData.email" placeholder="Email">
+          </label>
+
+          <div class="item item-toggle">
+          Active?
+            <label class="toggle toggle-balanced">
+              <input type="checkbox">
+              <div class="track">
+                 <div class="handle"></div>
+               </div>
+            </label>
+          </div>
+
+          <div class="item item-checkbox">
+             <label class="checkbox">
+               <input type="checkbox">
+             </label>
+             Called?
+          </div>
+
+          <label class="item item-radio">
+            <input type="radio" name="group">
+            <div class="item-content">
+              Home
+            </div>
+            <i class="radio-icon ion-checkmark"></i>
+          </label>
+
+          <label class="item item-radio">
+            <input type="radio" name="group">
+            <div class="item-content">
+              Work
+            </div>
+            <i class="radio-icon ion-checkmark"></i>
+          </label>
+
+          <label class="item item-input item-select">
+            <div class="input-label">
+              Closed deal
+            </div>
+            <select>
+              <option>Yes</option>
+              <option selected>No</option>
+              <option>Almost</option>
+            </select>
+          </label>
+
+        </div>
+        <button class="button button-block button-outline button-positive" type="submit">Add Contact</button>
+      </form>
+    </div>
+  </ion-content>
+</div>
+
