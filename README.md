@@ -1,4 +1,4 @@
-Mobile Zap App (Chiguire)
+Mobile {{secret code name}} App (Chiguire)
 =========================
 
 A starting project for Mobile Zap that optionally supports
